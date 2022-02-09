@@ -94,3 +94,9 @@ ola, meu nome e frank jhonson.
 🎞 youtube
 <br>
 <a href="https://www.youtube.com/channel/UCJP27MOCu99R9iTcEVIA4nw/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+<br>
+Discord
+<br>
+<a href="https://discord.gg/EtQnwgK8Sc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
