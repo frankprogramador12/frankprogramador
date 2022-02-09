@@ -89,3 +89,8 @@ ola, meu nome e frank jhonson.
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br>
+🎞 youtube
+<br>
+<a href="https://www.youtube.com/channel/UCJP27MOCu99R9iTcEVIA4nw/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
